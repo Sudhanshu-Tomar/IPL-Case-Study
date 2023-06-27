@@ -19,21 +19,37 @@ player of the match, venue, and umpires.
 
 
 1.What are the top 5 players with the most Player of the Match awards?
+
 2.How many matches were won by each team in each season?
+
 3.What is the average strike rate of batsmen in the IPL dataset?
+
 4.What is the number of matches won by each team batting first versus batting second?
+
 5.Which batsman has the highest strike rate (minimum 200 runs scored)?
+
 6.How many times has each batsman been dismissed by the bowler 'Malinga'?
+
 7.What is the average percentage of boundaries (fours and sixes combined) hit by each batsman?
+
 8.What is the average number of boundaries hit by each team in each season?
+
 9.What is the highest partnership (runs) for each team in each season?
+
 10.How many extras (wides and no-balls) were bowled by each team in each match?
+
 11.Which bowler has the best bowling figures (most wickets taken) in a single match?
+
 12.How many matches resulted in a win for each team in each city?
+
 13.How many times did each team win the toss in each season?
+
 14.How many matches did each player win the "Player of the Match" award?
+
 15.What is the average number of runs scored in each over of the innings in each match?
+
 16.Which team has the highest total score in a single match?
+
 17.Which batsman has scored the most runs in a single match?     
 
 
